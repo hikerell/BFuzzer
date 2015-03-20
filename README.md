@@ -73,7 +73,7 @@ window.location.href = 'http://host:port/next';
 
 ### 建议
 1. 关闭浏览器```崩溃自动恢复```功能，允许```本地执行脚本```；
-2. 运行前关闭```及时调试```功能：
+2. 运行前关闭```即时调试```功能：
 32位Windows设置注册表项[HKEY_LOCAL_MACHINE/SOFTWARE/Microsoft/Windows NT/CurrentVersion/AeDebug]的Auto值为0
 64位Windows设置注册表项[HKEY_LOCAL_MACHINE/SOFTWARE/Wow6432Node/Microsoft/Windows NT/CurrentVersion/AreDebug/Debugger]的Auto值为0
 3. 禁用MS14-037增加的```对象延迟释放机制```：
