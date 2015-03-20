@@ -84,7 +84,7 @@ window.location.href = 'http://host:port/next';
 
 -------------
 ## 版本更新
-2014.10.24
+2014.11.24
 >* BFuzzer-2.1发布，修复server模块在IE9下的不正常行为
 
 ## 版本历史
